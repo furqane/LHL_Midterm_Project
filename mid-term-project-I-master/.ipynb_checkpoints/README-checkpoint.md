@@ -1,3 +1,7 @@
+# This is the Midterm Project for Lighthouse Labs Data Science Boot Camp
+This project was completed by Furqan Ejaz, Shiv Solomon, and myself Jesse Randolph. We are apart of the OCT 25/2021 Cohort.
+The project guidlines are listed below. Besides the submission .CSV, other Data and Datasets are not included in this repo.
+
 # Mid-Term Project
 This repository cointains all the information you need to work on the Mid-Term project.
 
